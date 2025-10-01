@@ -1,38 +1,19 @@
 {
-  "version": "1.0.1",
-  "changelog": "🚀 Новый лаунчер TYPE LAUNCHER!\n\n✨ Что добавлено:\n- Обновленный лаунчер игры\n- Все необходимые файлы и библиотеки\n- Готово к использованию!\n\n📦 5 файлов для загрузки",
-  "gameExe": "TYPE LAUNCHER.exe",
+  "version": "1.0.2",
+  "changelog": "🔧 Важное обновление!\n\n📦 Добавлены драйверы:\n- .NET Desktop Runtime 6.0.36\n- Инструкция по установке\n\n✨ Установите драйверы для корректной работы игры!\n\n📥 2 файла для загрузки (57 МБ)",
+  "gameExe": "RustClient.exe",
   "files": [
     {
-      "path": "TYPE LAUNCHER.exe",
-      "hash": "01ce6188b31faa57bf1167c0532273559b97fabf27c14c200e7d48fcdec11546",
-      "size": 219648,
-      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.exe"
+      "path": "DRIVERS/windowsdesktop-runtime-6.0.36-win-x64.exe",
+      "hash": "0d20debb26fc8b2bc84f25fbd9d4596a6364af8517ebf012e8b871127b798941",
+      "size": 57380656,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.2/windowsdesktop-runtime-6.0.36-win-x64.exe"
     },
     {
-      "path": "TYPE LAUNCHER.dll",
-      "hash": "df8ea3fe7063b43c2476c30ee3fd2bac6f40a909cec5b12c668a19be41486b55",
-      "size": 1018368,
-      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.dll"
-    },
-    {
-      "path": "TYPE LAUNCHER.deps.json",
-      "hash": "c477c9ebb6f56f4e5209b1b943325714ce127c2c6386e82ca75034e206b82986",
-      "size": 484,
-      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.deps.json"
-    },
-    {
-      "path": "TYPE LAUNCHER.runtimeconfig.json",
-      "hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
-      "size": 515,
-      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.runtimeconfig.json"
-    },
-    {
-      "path": "TYPE LAUNCHER.pdb",
-      "hash": "8e5c719c06bf8c6ff362685290df9b1d527d758e7090c8fd4c89518153ec334b",
-      "size": 16160,
-      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.pdb"
+      "path": "DRIVERS/ОТКРОЙ!.txt",
+      "hash": "8b65dcce29f809fabe4ace68d35996f451c7879b5461a17c7f06999e477e6af0",
+      "size": 135,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.2/OTKROY.txt"
     }
   ]
 }
-
