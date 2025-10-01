@@ -1,6 +1,38 @@
 {
   "version": "1.0.0",
-  "changelog": "🎮 Первый релиз игры!\n\n✨ Новое:\n- Базовая версия игры\n- Все основные файлы\n\n🔧 Система готова к работе!",
-  "gameExe": "Game.exe",
-  "files": []
+  "changelog": "🚀 Новый лаунчер TYPE LAUNCHER!\n\n✨ Что добавлено:\n- Обновленный лаунчер игры\n- Все необходимые файлы и библиотеки\n- Готово к использованию!\n\n📦 5 файлов для загрузки",
+  "gameExe": "TYPE LAUNCHER.exe",
+  "files": [
+    {
+      "path": "TYPE LAUNCHER.exe",
+      "hash": "01ce6188b31faa57bf1167c0532273559b97fabf27c14c200e7d48fcdec11546",
+      "size": 219648,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.exe"
+    },
+    {
+      "path": "TYPE LAUNCHER.dll",
+      "hash": "df8ea3fe7063b43c2476c30ee3fd2bac6f40a909cec5b12c668a19be41486b55",
+      "size": 1018368,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.dll"
+    },
+    {
+      "path": "TYPE LAUNCHER.deps.json",
+      "hash": "c477c9ebb6f56f4e5209b1b943325714ce127c2c6386e82ca75034e206b82986",
+      "size": 484,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.deps.json"
+    },
+    {
+      "path": "TYPE LAUNCHER.runtimeconfig.json",
+      "hash": "89ad1ea5c9c20b6b266547ef27c0ae3840cab5642d3c2aedf06b7026245671dd",
+      "size": 515,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.runtimeconfig.json"
+    },
+    {
+      "path": "TYPE LAUNCHER.pdb",
+      "hash": "8e5c719c06bf8c6ff362685290df9b1d527d758e7090c8fd4c89518153ec334b",
+      "size": 16160,
+      "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.0/TYPE.LAUNCHER.pdb"
+    }
+  ]
 }
+
