@@ -5,13 +5,13 @@
   "files": [
     {
       "path": "DRIVERS/windowsdesktop-runtime-6.0.36-win-x64.exe",
-      "hash": "0d20debb26fc8b2bc84f25fbd9d4596a6364af8517ebf012e8b871127b798941",
+      "hash": "0d20debb26fc8b2bc84f25fbd9d1596a6364af8517ebf012e8b871127b798941",
       "size": 57380656,
       "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.2/windowsdesktop-runtime-6.0.36-win-x64.exe"
     },
     {
       "path": "DRIVERS/OPEN.txt",
-      "hash": "8b65dcce29f809fabe4ace68d35996f451c7879b5461a17c7f06999e477e6af0",
+      "hash": "8b65dcce29f809fabe4ace68d35996f151c7879b5461a17c7f06999e477e6af0",
       "size": 135,
       "url": "https://github.com/Script-Neelo/TYPE-RUST/releases/download/v1.0.2/OPEN.txt"
     }
